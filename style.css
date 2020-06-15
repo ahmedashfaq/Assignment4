@@ -599,11 +599,6 @@ footer .news-box i{
 
 @media screen and (max-width: 375px){
 
-
-    .sym-img{
-        margin-left: 50px !important;
-    }
-
     .link-section{
         height: 500px !important;
     }
@@ -671,11 +666,9 @@ footer .news-box i{
         top:1050;
         left: 15px;
         background: orange;
-        width: 100px !important;
+        width: 340px;
         height: 1px;
     }
-
-    
     
     
 }
